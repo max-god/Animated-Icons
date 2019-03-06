@@ -1,2 +1,2 @@
 # Animated Icons
->Animated Icons using **Font Awesome**
+>Animated Icons built with **Font Awesome**
